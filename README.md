@@ -77,7 +77,6 @@ All sensitive components and data within the CardioTriage AI ecosystem are safeg
 
 ## Documents
 
--![High-Level Solution Architecture Diagram](https://github.com/ganeshglitz/CardioTriage-AI/blob/main/Assets/Solution%20Architecture%20Diagram.png?raw=true)
-![High-Level Solution Architecture Diagram](https://github.com/ganeshglitz/CardioTriage-AI/blob/main/Assets/Solution%20Architecture%20Diagram.png?raw=true)
+-![Configuration Document](https://github.com/ganeshglitz/CardioTriage-AI/blob/main/Documents/CardioTriage%20AI%20-%20Configuration%20Details.docx)
 
 By leveraging the power of Microsoft technologies, CardioTriage AI ensures a secure, efficient, and intelligent solution for managing patient triage in cardiology. The system not only enhances the efficiency of medical professionals but also prioritizes security and data integrity at every step.
