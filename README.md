@@ -22,9 +22,8 @@ The application ensures smooth and automated operations by utilizing **Microsoft
 ## High-Level Solution Architecture
 
 ### Figure 1: High-Level Solution Architecture Diagram
-
-
-
+![High-Level Solution Architecture Diagram](https://github.com/ganeshglitz/CardioTriage-AI/blob/main/Assets/Solution%20Architecture%20Diagram.png?raw=true)
+ 
 ### User Interface (Front-End)
 
 - **Power Apps**: The primary interface for users, including **Lab Technicians**, **Front Desk Agents**, and **Doctors**. Power Apps provides a user-friendly environment to interact with the system.
